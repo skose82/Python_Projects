@@ -1,3 +1,6 @@
 [submodule "pygames"]
 	path = pygames
 	url = https://github.com/skose82/pygames
+[submodule "cnv_parser1.2"]
+	path = cnv_parser1.2
+	url = https://github.com/skose82/cnv_parser1.2/
