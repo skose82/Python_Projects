@@ -1,2 +1,2 @@
 # Python_Projects
-Python Project Samples
+A Repository of sample Python Projects
